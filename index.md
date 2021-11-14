@@ -1,9 +1,9 @@
-## ERIC SELECT
+# 蠡光食色
+<center><bold>东园小馆</bold></center>
 
-#### 仅供参考, 如有异议请[联系我们](mailto:king@woweric.com)|[返回主站](https://www.woweric.com)
-Updated: @today
+## 位置：万象城
 
-<center>## 东园小馆</center>
+## 推荐指数：$$\star$$
 
 
 
