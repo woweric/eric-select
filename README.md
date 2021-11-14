@@ -1,2 +1,2 @@
 # eric-select
-ERIC-Select lists
+强哥星选
