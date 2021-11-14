@@ -7,6 +7,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 #### 仅供参考, 如有异议请[联系我们](mailto:king@woweric.com)|[返回主站](https://www.woweric.com)
 Updated: @today
 
+<center>这一行需要居中</center>
+
 日期 | 实体名称 | 入选理由 | 位置 | 范围 | 备注
 ------------ | ----------------- | --------------- | --------------- | ------------- | -------------
 2021/06/20 | 小菜园 | 难吃且贵分量少 | 海岸城 | 全部门店
