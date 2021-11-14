@@ -1,9 +1,7 @@
-# 蠡光食色
-<center><bold>东园小馆</bold></center>
 
-## 位置：万象城
-
-## 推荐指数：$$\star$$
+<center>东园小馆</center>
+位置：万象城
+推荐指数：$\star$
 
 
 
