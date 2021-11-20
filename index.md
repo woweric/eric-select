@@ -1,7 +1,7 @@
 
-<center>东园小馆</center>
-位置：万象城 推荐指数：
-!(img/kuangjijiaozi.jpg)
+<center>匡记饺子</center>
+位置：海岸城 推荐指数：
+![匡记饺子](https://github.com/woweric/eric-select/blob/gh-pages/img/kuangjijiaozi.jpg)
 
 
 
