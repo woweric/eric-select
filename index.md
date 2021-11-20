@@ -2,7 +2,7 @@
 <center>匡记饺子</center>
 位置：海岸城 
 推荐指数：
-![匡记饺子](https://github.com/woweric/eric-select/blob/gh-pages/img/kuangjijiaozi.jpg?raw=true)
+![匡记饺子](https://upload-images.jianshu.io/upload_images/5845412-baa9682ecbb9f719.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/1184)
 
 
 
