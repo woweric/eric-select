@@ -1,7 +1,8 @@
 
-# 匡记饺子
+## 匡记饺子
 位置：海岸城 
-推荐指数：\*
+推荐指数：&hearts
+
 ![匡记饺子](https://github.com/woweric/eric-select/blob/gh-pages/img/kuangjijiaozi.jpg?raw=true)
 
 
