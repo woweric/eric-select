@@ -1,4 +1,4 @@
-![匡记饺子](https://github.com/woweric/eric-select/blob/gh-pages/img/kuangjijiaozi.jpg?raw=true)
+![匡记饺子](https://raw.githubusercontent.com/woweric/eric-select/gh-pages/img/kjjz.webp)
 匡记饺子
 位置：海岸城 
 推荐指数：\* \* \*
