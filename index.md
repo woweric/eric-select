@@ -1,4 +1,5 @@
 
+#ERIC Select
 ## 匡记饺子
 位置：海岸城 
 推荐指数：\bigstar
